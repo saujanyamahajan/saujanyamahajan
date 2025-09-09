@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saujanyamahajan&label=Profile%20views&color=0e75b6&style=flat" alt="saujanyamahajan" /> </p>
 
-- 🌱 I’m currently learning DSA
+- 🌱 React | .net
 - 📫 How to reach me: **saujanya.9919@gmail.com**
 - ⚡ Fun fact: Love being creative
 
