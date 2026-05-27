@@ -9,7 +9,7 @@
 <p><img align="center" src="https://github-readme-stats-itsflash10.vercel.app/api?username=saujanyamahajan&show_icons=true&locale=en&theme=radical" alt="saujanyamahajan" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saujanyamahajan&show_icons=true&locale=en&layout=compact&theme=radical" alt="saujanyamahajan" /></p>
 
-
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 
